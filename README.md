@@ -1,6 +1,7 @@
 # Hola, soy David Pedraza 👋
 
 **Desarrollador Full Stack** — PHP/Laravel · C#/.NET · React/Next.js
+
 Desarrollo software a medida para empresas a través de [THYOPE](https://thyope.com.ar/).
 
 ### Tecnologías
@@ -20,6 +21,7 @@ Desarrollo software a medida para empresas a través de [THYOPE](https://thyope.
 <summary>🇬🇧 English</summary>
 
 **Full Stack Developer** — PHP/Laravel · C#/.NET · React/Next.js. I build custom software for businesses through [THYOPE](https://thyope.com.ar/).
+
 Featured project: [Billing & Inventory Management System](https://github.com/dpedraza/billing-inventory-laravel) (Laravel 12, PostgreSQL, kardex-based stock, role-based access, PDF/Excel reports).
 
 </details>
